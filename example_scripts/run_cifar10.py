@@ -13,7 +13,7 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.callbacks import EarlyStopping, ModelCheckpoint, CSVLogger
 from keras import regularizers
 
-from keras-codeepneat import *
+from kerascodeepneat import *
 
 def run_cifar10_full(generations, training_epochs, population_size, blueprint_population_size, module_population_size, n_blueprint_species, n_module_species, final_model_training_epochs):
     from keras.datasets import cifar10
