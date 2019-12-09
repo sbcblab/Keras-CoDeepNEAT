@@ -1,0 +1,371 @@
+WARNING - 2019-12-09 12:57:20,008: This will get logged to a file
+INFO - 2019-12-09 12:57:20,008: Hi, this is a test run.
+TOPOLOGY - 2019-12-09 12:57:20,008: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:20,390: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:20,604: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:20,913: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:21,127: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:21,351: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:21,663: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:21,978: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:22,285: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:22,496: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:22,707: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:22,919: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:23,238: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:23,585: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:23,801: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:24,015: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:24,229: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:24,534: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:24,746: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:24,959: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:25,182: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:25,396: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:25,609: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:25,822: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:26,030: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:26,333: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:26,537: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:26,751: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:26,960: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:27,168: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:27,384: KMeans generated 3 species using: [(1, 0, 18), (1, 0, 33), (1, 0, 24), (1, 0, 36), (1, 0, 19), (1, 0, 35), (1, 0, 35), (1, 0, 30), (1, 0, 28), (1, 0, 20), (1, 0, 39), (1, 0, 41), (1, 0, 39), (1, 0, 26), (1, 0, 36), (1, 0, 31), (1, 0, 25), (1, 0, 41), (1, 0, 23), (1, 0, 27), (1, 0, 28), (1, 0, 44), (1, 0, 29), (1, 0, 31), (1, 0, 40), (1, 0, 42), (1, 0, 34), (1, 0, 25), (1, 0, 36), (1, 0, 32)].
+TOPOLOGY - 2019-12-09 12:57:27,384: Created 3 module species.
+TOPOLOGY - 2019-12-09 12:57:27,384: Module species 0: [11, 12, 13, 18, 22, 25, 26]
+TOPOLOGY - 2019-12-09 12:57:27,384: Module species 1: [1, 3, 5, 9, 10, 14, 17, 19, 20, 21, 28]
+TOPOLOGY - 2019-12-09 12:57:27,384: Module species 2: [2, 4, 6, 7, 8, 15, 16, 23, 24, 27, 29, 30]
+TOPOLOGY - 2019-12-09 12:57:27,384: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:27,384: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:27,606: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:28,050: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:28,050: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:28,264: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:28,690: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:28,690: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:28,910: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:29,335: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:29,335: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:29,545: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:29,989: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:29,990: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:30,340: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:30,765: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:30,765: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:30,975: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:31,413: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:31,414: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:31,627: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:32,059: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:32,060: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:32,270: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:32,691: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:32,691: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:32,895: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:33,328: Generating 1 modules
+TOPOLOGY - 2019-12-09 12:57:33,329: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:33,538: Generating 1 components
+TOPOLOGY - 2019-12-09 12:57:33,978: KMeans generated 3 species using: [(3, 2, 134), (3, 2, 152), (3, 2, 157), (3, 2, 119), (3, 2, 138), (3, 2, 173), (3, 2, 119), (3, 2, 193), (3, 2, 135), (3, 2, 149)].
+TOPOLOGY - 2019-12-09 12:57:33,978: Created 3 blueprint species.
+TOPOLOGY - 2019-12-09 12:57:33,978: Blueprint species 0: [6, 8]
+TOPOLOGY - 2019-12-09 12:57:33,978: Blueprint species 1: [1, 4, 5, 7, 9]
+TOPOLOGY - 2019-12-09 12:57:33,978: Blueprint species 2: [2, 3, 10]
+INFO - 2019-12-09 12:57:33,978: Iterating over 2 generations
+INFO - 2019-12-09 12:57:33,979:  -- Iterating generation 0 -- 
+TOPOLOGY - 2019-12-09 12:57:33,979: Currently 30 modules, 10 blueprints, latest iteration: None
+TOPOLOGY - 2019-12-09 12:57:33,979: Current modules: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+TOPOLOGY - 2019-12-09 12:57:33,979: Current blueprints: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+WARNING - 2019-12-09 12:57:33,982: From C:\Users\dasilvej\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+TOPOLOGY - 2019-12-09 12:57:33,990: Created individuals for blueprints: [(1, 7)]
+INFO - 2019-12-09 12:57:33,990: Iterating fitness over 1 individuals
+INFO - 2019-12-09 12:57:33,990: Fitting one individual for 2 epochs
+TOPOLOGY - 2019-12-09 12:57:33,990: Starting assembling of blueprint 7.
+TOPOLOGY - 2019-12-09 12:57:34,389: Generated the assembled graph for blueprint 7: ['input-0-0', 'intermed-0-0', 'output-0-0']
+INFO - 2019-12-09 12:57:34,389: Generating keras layers
+INFO - 2019-12-09 12:57:34,389: Adding the Input() layer
+TOPOLOGY - 2019-12-09 12:57:34,389: Added Tensor("input_1:0", shape=(?, 32, 32, 3), dtype=float32)
+TOPOLOGY - 2019-12-09 12:57:34,390: input-0-0: Working on conv2d_1_1733eaaaa0f24975bc7fbe8675b725b2. Specs: [<class 'keras.layers.convolutional.Conv2D'>, {'filters': 44, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:34,398: input-0-0: Added [<tf.Tensor 'conv2d_1_1733eaaaa0f24975bc7fbe8675b725b2/Relu:0' shape=(?, 32, 32, 44) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:34,399: intermed-0-0: Working on conv2d_2_756b40b6a1d84a3d84ac77bf1639ae81. Specs: [<class 'keras.layers.convolutional.Conv2D'>, {'filters': 31, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:34,399: intermed-0-0: is conv2d_1_1733eaaaa0f24975bc7fbe8675b725b2/Relu:0 conv2d: True. is conv2d_2_756b40b6a1d84a3d84ac77bf1639ae81 dense: False
+TOPOLOGY - 2019-12-09 12:57:34,407: intermed-0-0: Added [<tf.Tensor 'conv2d_2_756b40b6a1d84a3d84ac77bf1639ae81/Relu:0' shape=(?, 32, 32, 31) dtype=float32>]
+WARNING - 2019-12-09 12:57:34,410: From C:\Users\dasilvej\AppData\Roaming\Python\Python37\site-packages\keras\backend\tensorflow_backend.py:3733: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+TOPOLOGY - 2019-12-09 12:57:34,418: intermed-0-0: Added complement [<tf.Tensor 'conv2d_2_756b40b6a1d84a3d84ac77bf1639ae81/Relu:0' shape=(?, 32, 32, 31) dtype=float32>, <tf.Tensor 'dropout_1_671e157457874815be74f36dd8004ebe/cond/Merge:0' shape=(?, 32, 32, 31) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:34,420: output-0-0: Working on dense_1_8023f446c18c4a87871d0b980c9196b9. Specs: [<class 'keras.layers.core.Dense'>, {'units': 44, 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:34,420: output-0-0: is conv2d_2_756b40b6a1d84a3d84ac77bf1639ae81/Relu:0 conv2d: True. is dense_1_8023f446c18c4a87871d0b980c9196b9 dense: True
+INFO - 2019-12-09 12:57:34,420: Adding a Flatten() layer between conv2d_2_756b40b6a1d84a3d84ac77bf1639ae81/Relu:0 and dense_1_8023f446c18c4a87871d0b980c9196b9
+TOPOLOGY - 2019-12-09 12:57:34,423: output-0-0: Added [<tf.Tensor 'flatten_1/Reshape:0' shape=(?, ?) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:34,431: output-0-0: Added [<tf.Tensor 'dense_1_8023f446c18c4a87871d0b980c9196b9/Relu:0' shape=(?, 44) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:34,440: output-0-0: Added complement [<tf.Tensor 'dense_1_8023f446c18c4a87871d0b980c9196b9/Relu:0' shape=(?, 44) dtype=float32>, <tf.Tensor 'dense_2_4bcbc893908f4a58be6f1e42f21e118f/Softmax:0' shape=(?, 10) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:34,440: {'input-0-0': [<tf.Tensor 'conv2d_1_1733eaaaa0f24975bc7fbe8675b725b2/Relu:0' shape=(?, 32, 32, 44) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_2_756b40b6a1d84a3d84ac77bf1639ae81/Relu:0' shape=(?, 32, 32, 31) dtype=float32>, <tf.Tensor 'dropout_1_671e157457874815be74f36dd8004ebe/cond/Merge:0' shape=(?, 32, 32, 31) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_1_8023f446c18c4a87871d0b980c9196b9/Relu:0' shape=(?, 44) dtype=float32>, <tf.Tensor 'dense_2_4bcbc893908f4a58be6f1e42f21e118f/Softmax:0' shape=(?, 10) dtype=float32>]}
+TOPOLOGY - 2019-12-09 12:57:34,440: Using input Tensor("input_1:0", shape=(?, 32, 32, 3), dtype=float32) and output Tensor("dense_2_4bcbc893908f4a58be6f1e42f21e118f/Softmax:0", shape=(?, 10), dtype=float32)
+WARNING - 2019-12-09 12:57:35,581: From C:\Users\dasilvej\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+INFO - 2019-12-09 12:57:36,762: Fitness for individual 1 using blueprint 7 after 2 epochs: {'val_loss': [7.570736885070801, 2.634018898010254], 'val_acc': [0.13333334028720856, 0.13333334028720856], 'loss': [2.2944042682647705, 7.30118465423584], 'acc': [0.0941176488995552, 0.24705882370471954]}
+INFO - 2019-12-09 12:57:36,762: Scoring one individual
+INFO - 2019-12-09 12:57:36,772: Test scores for individual 1 using blueprint 7 after training: [3.930074691772461, 0.0]
+TOPOLOGY - 2019-12-09 12:57:36,774: This iteration: [[1, 7, [3.930074691772461, 0.0], (3, 2, 119), 1, 0]]
+TOPOLOGY - 2019-12-09 12:57:36,774: Updated weighted scores for species 2: [3.930074691772461, 0.0] based on [[3.930074691772461, 0.0]]
+TOPOLOGY - 2019-12-09 12:57:36,774: Updated weighted scores for species 1: [3.930074691772461, 0.0] based on [[3.930074691772461, 0.0]]
+TOPOLOGY - 2019-12-09 12:57:36,774: Best model chosen: [1, 7, [3.930074691772461, 0.0], (3, 2, 119), 1, 0]
+TOPOLOGY - 2019-12-09 12:57:36,903: 
+
+ --------------- Generation 0 Summary -------------- 
+
+TOPOLOGY - 2019-12-09 12:57:36,903: Current 1 individuals: [1]
+TOPOLOGY - 2019-12-09 12:57:36,904: Current 10 blueprints: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[  1.          99.           0.           1.           3.    2.         134.        ] 
+[  2.          99.           0.           2.           3.    2.         152.        ] 
+[  3.          99.           0.           2.           3.    2.         157.        ] 
+[  4.          99.           0.           1.           3.    2.         119.        ] 
+[  5.          99.           0.           1.           3.    2.         138.        ] 
+[  6.          99.           0.           0.           3.    2.         173.        ] 
+[  7.           3.93007469   0.           1.           3.    2.         119.        ] 
+[  8.          99.           0.           0.           3.    2.         193.        ] 
+[  9.          99.           0.           1.           3.    2.         135.        ] 
+[ 10.          99.           0.           2.           3.    2.         149.        ]]
+TOPOLOGY - 2019-12-09 12:57:36,904: Current 3 blueprint species: [0, 1, 2]
+TOPOLOGY - 2019-12-09 12:57:36,904: NOTE: Scores are considering past iteration. Not considering current blueprints for they are not yet all evaluated.
+TOPOLOGY - 2019-12-09 12:57:36,904: Current blueprint species 0 scores: [99, 0]. members: [6, 8]
+TOPOLOGY - 2019-12-09 12:57:36,904: Current blueprint species 1 scores: [3.930074691772461, 0.0]. members: [1, 4, 5, 7, 9]
+TOPOLOGY - 2019-12-09 12:57:36,905: Current blueprint species 2 scores: [99, 0]. members: [2, 3, 10]
+TOPOLOGY - 2019-12-09 12:57:36,906: Current 30 modules: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[ 1.         99.          0.          1.          1.          0.  18.        ] 
+[ 2.         99.          0.          2.          1.          0.  33.        ] 
+[ 3.         99.          0.          1.          1.          0.  24.        ] 
+[ 4.         99.          0.          2.          1.          0.  36.        ] 
+[ 5.         99.          0.          1.          1.          0.  19.        ] 
+[ 6.         99.          0.          2.          1.          0.  35.        ] 
+[ 7.         99.          0.          2.          1.          0.  35.        ] 
+[ 8.         99.          0.          2.          1.          0.  30.        ] 
+[ 9.         99.          0.          1.          1.          0.  28.        ] 
+[10.         99.          0.          1.          1.          0.  20.        ] 
+[11.         99.          0.          0.          1.          0.  39.        ] 
+[12.         99.          0.          0.          1.          0.  41.        ] 
+[13.         99.          0.          0.          1.          0.  39.        ] 
+[14.         99.          0.          1.          1.          0.  26.        ] 
+[15.         99.          0.          2.          1.          0.  36.        ] 
+[16.          3.93007469  0.          2.          1.          0.  31.        ] 
+[17.         99.          0.          1.          1.          0.  25.        ] 
+[18.         99.          0.          0.          1.          0.  41.        ] 
+[19.         99.          0.          1.          1.          0.  23.        ] 
+[20.         99.          0.          1.          1.          0.  27.        ] 
+[21.         99.          0.          1.          1.          0.  28.        ] 
+[22.         99.          0.          0.          1.          0.  44.        ] 
+[23.         99.          0.          2.          1.          0.  29.        ] 
+[24.         99.          0.          2.          1.          0.  31.        ] 
+[25.         99.          0.          0.          1.          0.  40.        ] 
+[26.         99.          0.          0.          1.          0.  42.        ] 
+[27.         99.          0.          2.          1.          0.  34.        ] 
+[28.         99.          0.          1.          1.          0.  25.        ] 
+[29.         99.          0.          2.          1.          0.  36.        ] 
+[30.         99.          0.          2.          1.          0.  32.        ]]
+TOPOLOGY - 2019-12-09 12:57:36,906: Current 3 module species: [0, 1, 2]
+TOPOLOGY - 2019-12-09 12:57:36,906: NOTE: Scores are considering past iteration. Not considering current modules for they are not yet all evaluated.
+TOPOLOGY - 2019-12-09 12:57:36,907: Current module species 0 scores: [99, 0]. members: [11, 12, 13, 18, 22, 25, 26]
+TOPOLOGY - 2019-12-09 12:57:36,907: Current module species 1 scores: [99, 0]. members: [1, 3, 5, 9, 10, 14, 17, 19, 20, 21, 28]
+TOPOLOGY - 2019-12-09 12:57:36,907: Current module species 2 scores: [3.930074691772461, 0.0]. members: [2, 4, 6, 7, 8, 15, 16, 23, 24, 27, 29, 30]
+TOPOLOGY - 2019-12-09 12:57:36,907: 
+ -------------------------------------------- 
+
+TOPOLOGY - 2019-12-09 12:57:36,907: Species 0 ordering: [[11, [99, 0]], [12, [99, 0]], [13, [99, 0]], [18, [99, 0]], [22, [99, 0]], [25, [99, 0]], [26, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:36,907: Species 1 ordering: [[1, [99, 0]], [3, [99, 0]], [5, [99, 0]], [9, [99, 0]], [10, [99, 0]], [14, [99, 0]], [17, [99, 0]], [19, [99, 0]], [20, [99, 0]], [21, [99, 0]], [28, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:36,907: Species 2 ordering: [[16, [3.930074691772461, 0.0]], [2, [99, 0]], [4, [99, 0]], [6, [99, 0]], [7, [99, 0]], [8, [99, 0]], [15, [99, 0]], [23, [99, 0]], [24, [99, 0]], [27, [99, 0]], [29, [99, 0]], [30, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:36,907: Excluding module: 1
+TOPOLOGY - 2019-12-09 12:57:36,907: Excluding module: 2
+TOPOLOGY - 2019-12-09 12:57:36,907: Excluding module: 3
+TOPOLOGY - 2019-12-09 12:57:36,908: Including offspring modules: [31, 32, 33]
+TOPOLOGY - 2019-12-09 12:57:36,908: Impossible to mutate candidate module 25 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABEFCF470>>.
+TOPOLOGY - 2019-12-09 12:57:36,908: Impossible to mutate candidate module 22 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABEFAB8D0>>.
+TOPOLOGY - 2019-12-09 12:57:36,908: Impossible to mutate candidate module 29 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABEFAB8D0>>.
+TOPOLOGY - 2019-12-09 12:57:36,908: Impossible to mutate candidate module 19 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABEFCF470>>.
+TOPOLOGY - 2019-12-09 12:57:36,908: Impossible to mutate candidate module 21 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABEFCF470>>.
+TOPOLOGY - 2019-12-09 12:57:36,908: Impossible to mutate candidate module 26 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABEFCF470>>.
+TOPOLOGY - 2019-12-09 12:57:36,908: Impossible to mutate candidate module 6 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABEFAB8D0>>.
+TOPOLOGY - 2019-12-09 12:57:36,908: Mutated 15 modules.
+TOPOLOGY - 2019-12-09 12:57:36,909: Previous species members: [(1, 0, 39), (1, 0, 41), (1, 0, 39), (1, 0, 41), (1, 0, 44), (1, 0, 40), (1, 0, 42), (1, 0, 18), (1, 0, 24), (1, 0, 19), (1, 0, 28), (1, 0, 20), (1, 0, 26), (1, 0, 25), (1, 0, 23), (1, 0, 27), (1, 0, 28), (1, 0, 25), (1, 0, 31), (1, 0, 33), (1, 0, 36), (1, 0, 35), (1, 0, 35), (1, 0, 30), (1, 0, 36), (1, 0, 29), (1, 0, 31), (1, 0, 34), (1, 0, 36), (1, 0, 32)]. 
+Previous labels: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:36,910: All Classifications: [0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 1
+ 1 0 0 0 1 2 1 0 1 1 1 0 2 2 0 0 2 1 2 2 0 1 2]
+TOPOLOGY - 2019-12-09 12:57:36,910: Old Classifications: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:36,910: New Classifications: [2 2 1 2 2 2 1 1 0 0 0 1 2 1 0 1 1 1 0 2 2 0 0 2 1 2 2 0 1 2]
+TOPOLOGY - 2019-12-09 12:57:36,912: Species 0 ordering: [[6, [99, 0]], [8, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:36,913: Species 1 ordering: [[7, [3.930074691772461, 0.0]], [1, [99, 0]], [4, [99, 0]], [5, [99, 0]], [9, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:36,915: Species 2 ordering: [[2, [99, 0]], [3, [99, 0]], [10, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:36,915: Excluding blueprint: 1
+TOPOLOGY - 2019-12-09 12:57:36,915: Excluding blueprint: 2
+TOPOLOGY - 2019-12-09 12:57:36,915: Excluding blueprint: 3
+TOPOLOGY - 2019-12-09 12:57:36,915: Including offspring blueprints: [11, 12, 13]
+TOPOLOGY - 2019-12-09 12:57:36,915: Mutated candidate blueprint 11 to graph: ['input-0', 'intermed-0', 'output-0', 'intermed-1'] with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABEFF5128>>.
+TOPOLOGY - 2019-12-09 12:57:36,915: Mutated candidate blueprint 8 to graph: ['input-0', 'output-0'] with <bound method GraphOperator.mutate_by_node_removal of <__main__.GraphOperator object at 0x0000014ABA1F3400>>.
+TOPOLOGY - 2019-12-09 12:57:36,915: Mutated candidate blueprint 5 to graph: ['input-0', 'output-0'] with <bound method GraphOperator.mutate_by_node_removal of <__main__.GraphOperator object at 0x0000014ABA1F3400>>.
+TOPOLOGY - 2019-12-09 12:57:36,916: Impossible to mutate candidate blueprint 13 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <__main__.GraphOperator object at 0x0000014ABEFF5160>>.
+TOPOLOGY - 2019-12-09 12:57:36,916: Impossible to mutate candidate blueprint 9 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <__main__.GraphOperator object at 0x0000014ABEFF5160>>.
+TOPOLOGY - 2019-12-09 12:57:36,916: Mutated 5 blueprints.
+TOPOLOGY - 2019-12-09 12:57:36,917: Previous species members: [(3, 2, 173), (2, 1, 161), (3, 2, 119), (3, 2, 134), (3, 2, 119), (2, 1, 112), (3, 2, 135), (3, 2, 152), (3, 2, 157), (3, 2, 149)]. 
+Previous labels: [0, 0, 1, 1, 1, 1, 1, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:36,918: All Classifications: [2 0 1 1 1 1 1 2 2 2 1 1 1 2 0 1 2 2 1 2]
+TOPOLOGY - 2019-12-09 12:57:36,919: Old Classifications: [0, 0, 1, 1, 1, 1, 1, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:36,919: New Classifications: [1 1 1 2 0 1 2 2 1 2]
+INFO - 2019-12-09 12:57:36,919:  -- Iterating generation 1 -- 
+TOPOLOGY - 2019-12-09 12:57:36,919: Currently 30 modules, 10 blueprints, latest iteration: [[1, 7, [3.930074691772461, 0.0], (3, 2, 119), 1, 0]]
+TOPOLOGY - 2019-12-09 12:57:36,919: Current modules: [16, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
+TOPOLOGY - 2019-12-09 12:57:36,919: Current blueprints: [7, 4, 5, 6, 8, 9, 10, 11, 12, 13]
+TOPOLOGY - 2019-12-09 12:57:36,932: Created individuals for blueprints: [(2, 13)]
+INFO - 2019-12-09 12:57:36,932: Iterating fitness over 1 individuals
+INFO - 2019-12-09 12:57:36,932: Fitting one individual for 2 epochs
+TOPOLOGY - 2019-12-09 12:57:36,932: Starting assembling of blueprint 13.
+TOPOLOGY - 2019-12-09 12:57:37,218: Generated the assembled graph for blueprint 13: ['input-0-0', 'intermed-0-0', 'output-0-0']
+INFO - 2019-12-09 12:57:37,218: Generating keras layers
+INFO - 2019-12-09 12:57:37,218: Adding the Input() layer
+TOPOLOGY - 2019-12-09 12:57:37,219: Added Tensor("input_1:0", shape=(?, 32, 32, 3), dtype=float32)
+TOPOLOGY - 2019-12-09 12:57:37,219: input-0-0: Working on conv2d_1_267a72ccf87a488aac40234a6cc97f6b. Specs: [<class 'keras.layers.convolutional.Conv2D'>, {'filters': 31, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:37,229: input-0-0: Added [<tf.Tensor 'conv2d_1_267a72ccf87a488aac40234a6cc97f6b/Relu:0' shape=(?, 32, 32, 31) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:37,229: intermed-0-0: Working on conv2d_2_13f5c8b0f8d84f72a35281bd684dc37f. Specs: [<class 'keras.layers.convolutional.Conv2D'>, {'filters': 18, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:37,229: intermed-0-0: is conv2d_1_267a72ccf87a488aac40234a6cc97f6b/Relu:0 conv2d: True. is conv2d_2_13f5c8b0f8d84f72a35281bd684dc37f dense: False
+TOPOLOGY - 2019-12-09 12:57:37,242: intermed-0-0: Added [<tf.Tensor 'conv2d_2_13f5c8b0f8d84f72a35281bd684dc37f/Relu:0' shape=(?, 32, 32, 18) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:37,252: intermed-0-0: Added complement [<tf.Tensor 'conv2d_2_13f5c8b0f8d84f72a35281bd684dc37f/Relu:0' shape=(?, 32, 32, 18) dtype=float32>, <tf.Tensor 'dropout_1_7ec8530e459f43b688a64afbe4e2102c/cond/Merge:0' shape=(?, 32, 32, 18) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:37,253: output-0-0: Working on dense_1_5483a71f478f4876ba3a9e47b01062de. Specs: [<class 'keras.layers.core.Dense'>, {'units': 103, 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:37,253: output-0-0: is conv2d_2_13f5c8b0f8d84f72a35281bd684dc37f/Relu:0 conv2d: True. is dense_1_5483a71f478f4876ba3a9e47b01062de dense: True
+INFO - 2019-12-09 12:57:37,253: Adding a Flatten() layer between conv2d_2_13f5c8b0f8d84f72a35281bd684dc37f/Relu:0 and dense_1_5483a71f478f4876ba3a9e47b01062de
+TOPOLOGY - 2019-12-09 12:57:37,257: output-0-0: Added [<tf.Tensor 'flatten_1/Reshape:0' shape=(?, ?) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:37,266: output-0-0: Added [<tf.Tensor 'dense_1_5483a71f478f4876ba3a9e47b01062de/Relu:0' shape=(?, 103) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:37,275: output-0-0: Added complement [<tf.Tensor 'dense_1_5483a71f478f4876ba3a9e47b01062de/Relu:0' shape=(?, 103) dtype=float32>, <tf.Tensor 'dense_2_ffe5eec8a7a64b7daf011ea1b97b0863/Softmax:0' shape=(?, 10) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:37,275: {'input-0-0': [<tf.Tensor 'conv2d_1_267a72ccf87a488aac40234a6cc97f6b/Relu:0' shape=(?, 32, 32, 31) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_2_13f5c8b0f8d84f72a35281bd684dc37f/Relu:0' shape=(?, 32, 32, 18) dtype=float32>, <tf.Tensor 'dropout_1_7ec8530e459f43b688a64afbe4e2102c/cond/Merge:0' shape=(?, 32, 32, 18) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_1_5483a71f478f4876ba3a9e47b01062de/Relu:0' shape=(?, 103) dtype=float32>, <tf.Tensor 'dense_2_ffe5eec8a7a64b7daf011ea1b97b0863/Softmax:0' shape=(?, 10) dtype=float32>]}
+TOPOLOGY - 2019-12-09 12:57:37,275: Using input Tensor("input_1:0", shape=(?, 32, 32, 3), dtype=float32) and output Tensor("dense_2_ffe5eec8a7a64b7daf011ea1b97b0863/Softmax:0", shape=(?, 10), dtype=float32)
+INFO - 2019-12-09 12:57:38,792: Fitness for individual 2 using blueprint 13 after 2 epochs: {'val_loss': [8.7650728225708, 6.926784038543701], 'val_acc': [0.0, 0.06666667014360428], 'loss': [2.2887890338897705, 6.265444278717041], 'acc': [0.20000000298023224, 0.15294118225574493]}
+INFO - 2019-12-09 12:57:38,792: Scoring one individual
+INFO - 2019-12-09 12:57:38,808: Test scores for individual 2 using blueprint 13 after training: [4.5531907081604, 0.20000000298023224]
+TOPOLOGY - 2019-12-09 12:57:38,809: This iteration: [[2, 13, [4.5531907081604, 0.20000000298023224], (3, 2, 152), 2, 1]]
+TOPOLOGY - 2019-12-09 12:57:38,810: Updated weighted scores for species 2: [3.930074691772461, 0.0] based on [[3.930074691772461, 0.0]]
+TOPOLOGY - 2019-12-09 12:57:38,810: Updated weighted scores for species 1: [3.930074691772461, 0.0] based on [[3.930074691772461, 0.0]]
+TOPOLOGY - 2019-12-09 12:57:38,810: Updated weighted scores for species 2: [4.5531907081604, 0.20000000298023224] based on [[4.5531907081604, 0.20000000298023224]]
+TOPOLOGY - 2019-12-09 12:57:38,810: Best model chosen: [2, 13, [4.5531907081604, 0.20000000298023224], (3, 2, 152), 2, 1]
+TOPOLOGY - 2019-12-09 12:57:38,945: 
+
+ --------------- Generation 1 Summary -------------- 
+
+TOPOLOGY - 2019-12-09 12:57:38,945: Current 1 individuals: [2]
+TOPOLOGY - 2019-12-09 12:57:38,946: Current 10 blueprints: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[7.00000000e+00 3.93007469e+00 0.00000000e+00 1.00000000e+00  3.00000000e+00 2.00000000e+00 1.19000000e+02] 
+[4.00000000e+00 9.90000000e+01 0.00000000e+00 1.00000000e+00  3.00000000e+00 2.00000000e+00 1.19000000e+02] 
+[5.00000000e+00 9.90000000e+01 0.00000000e+00 1.00000000e+00  2.00000000e+00 1.00000000e+00 1.12000000e+02] 
+[6.00000000e+00 9.90000000e+01 0.00000000e+00 2.00000000e+00  3.00000000e+00 2.00000000e+00 1.73000000e+02] 
+[8.00000000e+00 9.90000000e+01 0.00000000e+00 0.00000000e+00  2.00000000e+00 1.00000000e+00 1.61000000e+02] 
+[9.00000000e+00 9.90000000e+01 0.00000000e+00 1.00000000e+00  3.00000000e+00 2.00000000e+00 1.35000000e+02] 
+[1.00000000e+01 9.90000000e+01 0.00000000e+00 2.00000000e+00  3.00000000e+00 2.00000000e+00 1.49000000e+02] 
+[1.10000000e+01 9.90000000e+01 0.00000000e+00 2.00000000e+00  4.00000000e+00 4.00000000e+00 2.03000000e+02] 
+[1.20000000e+01 9.90000000e+01 0.00000000e+00 1.00000000e+00  3.00000000e+00 2.00000000e+00 1.13000000e+02] 
+[1.30000000e+01 4.55319071e+00 2.00000003e-01 2.00000000e+00  3.00000000e+00 2.00000000e+00 1.52000000e+02]]
+TOPOLOGY - 2019-12-09 12:57:38,946: Current 3 blueprint species: [0, 1, 2]
+TOPOLOGY - 2019-12-09 12:57:38,946: NOTE: Scores are considering past iteration. Not considering current blueprints for they are not yet all evaluated.
+TOPOLOGY - 2019-12-09 12:57:38,946: Current blueprint species 0 scores: [99, 0]. members: [8]
+TOPOLOGY - 2019-12-09 12:57:38,946: Current blueprint species 1 scores: [3.930074691772461, 0.0]. members: [7, 4, 5, 9, 12]
+TOPOLOGY - 2019-12-09 12:57:38,946: Current blueprint species 2 scores: [4.5531907081604, 0.20000000298023224]. members: [6, 10, 11, 13]
+TOPOLOGY - 2019-12-09 12:57:38,949: Current 30 modules: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[16.          3.93007469  0.          2.          1.          0.  31.        ] 
+[ 4.         99.          0.          2.          1.          0.  36.        ] 
+[ 5.         99.          0.          1.          1.          0.  19.        ] 
+[ 6.         99.          0.          2.          1.          0.  35.        ] 
+[ 7.         99.          0.          2.          1.          0.  35.        ] 
+[ 8.         99.          0.          2.          1.          0.  30.        ] 
+[ 9.         99.          0.          1.          1.          0.  28.        ] 
+[10.         99.          0.          1.          1.          0.  20.        ] 
+[11.         99.          0.          0.          1.          0.  39.        ] 
+[12.         99.          0.          0.          1.          0.  41.        ] 
+[13.         99.          0.          0.          1.          0.  39.        ] 
+[14.         99.          0.          1.          1.          0.  26.        ] 
+[15.         99.          0.          2.          1.          0.  36.        ] 
+[17.         99.          0.          1.          1.          0.  25.        ] 
+[18.         99.          0.          0.          1.          0.  41.        ] 
+[19.         99.          0.          1.          1.          0.  23.        ] 
+[20.         99.          0.          1.          1.          0.  27.        ] 
+[21.         99.          0.          1.          1.          0.  28.        ] 
+[22.         99.          0.          0.          1.          0.  44.        ] 
+[23.         99.          0.          2.          1.          0.  29.        ] 
+[24.         99.          0.          2.          1.          0.  31.        ] 
+[25.         99.          0.          0.          1.          0.  40.        ] 
+[26.         99.          0.          0.          1.          0.  42.        ] 
+[27.         99.          0.          2.          1.          0.  34.        ] 
+[28.         99.          0.          1.          1.          0.  25.        ] 
+[29.         99.          0.          2.          1.          0.  36.        ] 
+[30.         99.          0.          2.          1.          0.  32.        ] 
+[31.         99.          0.          0.          1.          0.  41.        ] 
+[32.         99.          0.          1.          1.          0.  18.        ] 
+[33.         99.          0.          2.          1.          0.  31.        ]]
+TOPOLOGY - 2019-12-09 12:57:38,949: Current 3 module species: [0, 1, 2]
+TOPOLOGY - 2019-12-09 12:57:38,949: NOTE: Scores are considering past iteration. Not considering current modules for they are not yet all evaluated.
+TOPOLOGY - 2019-12-09 12:57:38,949: Current module species 0 scores: [99, 0]. members: [11, 12, 13, 18, 22, 25, 26, 31]
+TOPOLOGY - 2019-12-09 12:57:38,949: Current module species 1 scores: [99, 0]. members: [5, 9, 10, 14, 17, 19, 20, 21, 28, 32]
+TOPOLOGY - 2019-12-09 12:57:38,949: Current module species 2 scores: [3.930074691772461, 0.0]. members: [16, 4, 6, 7, 8, 15, 23, 24, 27, 29, 30, 33]
+TOPOLOGY - 2019-12-09 12:57:38,949: 
+ -------------------------------------------- 
+
+TOPOLOGY - 2019-12-09 12:57:38,949: Species 0 ordering: [[11, [99, 0]], [12, [99, 0]], [13, [99, 0]], [18, [99, 0]], [22, [99, 0]], [25, [99, 0]], [26, [99, 0]], [31, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:38,949: Species 1 ordering: [[5, [99, 0]], [9, [99, 0]], [10, [99, 0]], [14, [99, 0]], [17, [99, 0]], [19, [99, 0]], [20, [99, 0]], [21, [99, 0]], [28, [99, 0]], [32, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:38,950: Species 2 ordering: [[16, [3.930074691772461, 0.0]], [4, [99, 0]], [6, [99, 0]], [7, [99, 0]], [8, [99, 0]], [15, [99, 0]], [23, [99, 0]], [24, [99, 0]], [27, [99, 0]], [29, [99, 0]], [30, [99, 0]], [33, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:38,950: Excluding module: 4
+TOPOLOGY - 2019-12-09 12:57:38,950: Excluding module: 5
+TOPOLOGY - 2019-12-09 12:57:38,950: Excluding module: 6
+TOPOLOGY - 2019-12-09 12:57:38,950: Including offspring modules: [34, 35, 36]
+TOPOLOGY - 2019-12-09 12:57:38,950: Impossible to mutate candidate module 31 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABF7159E8>>.
+TOPOLOGY - 2019-12-09 12:57:38,950: Impossible to mutate candidate module 33 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABF715390>>.
+TOPOLOGY - 2019-12-09 12:57:38,951: Impossible to mutate candidate module 17 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABF7159E8>>.
+TOPOLOGY - 2019-12-09 12:57:38,951: Impossible to mutate candidate module 26 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABF715390>>.
+TOPOLOGY - 2019-12-09 12:57:38,951: Impossible to mutate candidate module 36 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABF715390>>.
+TOPOLOGY - 2019-12-09 12:57:38,951: Impossible to mutate candidate module 18 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABF715390>>.
+TOPOLOGY - 2019-12-09 12:57:38,951: Impossible to mutate candidate module 10 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <__main__.GraphOperator object at 0x0000014ABF7159E8>>.
+TOPOLOGY - 2019-12-09 12:57:38,951: Impossible to mutate candidate module 14 with <bound method GraphOperator.mutate_by_node_replacement of <__main__.GraphOperator object at 0x0000014ABF715390>>.
+TOPOLOGY - 2019-12-09 12:57:38,951: Mutated 15 modules.
+TOPOLOGY - 2019-12-09 12:57:38,952: Previous species members: [(1, 0, 39), (1, 0, 41), (1, 0, 39), (1, 0, 41), (1, 0, 44), (1, 0, 40), (1, 0, 42), (1, 0, 41), (1, 0, 19), (1, 0, 28), (1, 0, 20), (1, 0, 26), (1, 0, 25), (1, 0, 23), (1, 0, 27), (1, 0, 28), (1, 0, 25), (1, 0, 18), (1, 0, 31), (1, 0, 36), (1, 0, 35), (1, 0, 35), (1, 0, 30), (1, 0, 36), (1, 0, 29), (1, 0, 31), (1, 0, 34), (1, 0, 36), (1, 0, 32), (1, 0, 31)]. 
+Previous labels: [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:38,953: All Classifications: [0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 0 0
+ 0 1 2 1 0 1 1 1 0 2 2 0 0 2 1 2 2 0 1 2 0 1 2]
+TOPOLOGY - 2019-12-09 12:57:38,953: Old Classifications: [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:38,953: New Classifications: [2 2 2 1 1 0 0 0 1 2 1 0 1 1 1 0 2 2 0 0 2 1 2 2 0 1 2 0 1 2]
+TOPOLOGY - 2019-12-09 12:57:38,954: Species 1 ordering: [[7, [3.930074691772461, 0.0]], [4, [99, 0]], [5, [99, 0]], [9, [99, 0]], [12, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:38,954: Species 2 ordering: [[13, [4.5531907081604, 0.20000000298023224]], [6, [99, 0]], [10, [99, 0]], [11, [99, 0]]]
+TOPOLOGY - 2019-12-09 12:57:38,955: Excluding blueprint: 4
+TOPOLOGY - 2019-12-09 12:57:38,955: Excluding blueprint: 5
+TOPOLOGY - 2019-12-09 12:57:38,955: Including offspring blueprints: [14, 15]
+TOPOLOGY - 2019-12-09 12:57:38,955: Impossible to mutate candidate blueprint 6 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <__main__.GraphOperator object at 0x0000014ABF6DC438>>.
+TOPOLOGY - 2019-12-09 12:57:38,955: Impossible to mutate candidate blueprint 12 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <__main__.GraphOperator object at 0x0000014ABF6DC438>>.
+TOPOLOGY - 2019-12-09 12:57:38,955: Mutated candidate blueprint 9 to graph: ['input-0', 'output-0'] with <bound method GraphOperator.mutate_by_node_removal of <__main__.GraphOperator object at 0x0000014ABF7045F8>>.
+TOPOLOGY - 2019-12-09 12:57:38,955: Impossible to mutate candidate blueprint 14 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <__main__.GraphOperator object at 0x0000014ABF6DC438>>.
+TOPOLOGY - 2019-12-09 12:57:38,955: Mutated candidate blueprint 11 to graph: ['input-0', 'intermed-0', 'output-0'] with <bound method GraphOperator.mutate_by_node_removal of <__main__.GraphOperator object at 0x0000014ABF7045F8>>.
+TOPOLOGY - 2019-12-09 12:57:38,955: Mutated 5 blueprints.
+TOPOLOGY - 2019-12-09 12:57:38,955: Previous species members: [(2, 1, 161), (3, 2, 119), (3, 2, 119), (2, 1, 112), (2, 1, 95), (3, 2, 113), (3, 2, 152), (3, 2, 173), (3, 2, 149), (3, 3, 180)]. 
+Previous labels: [0, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:38,956: All Classifications: [0 1 1 1 1 1 2 2 2 2 2 1 2 0 1 2 2 1 1 2]
+TOPOLOGY - 2019-12-09 12:57:38,956: Old Classifications: [0, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+TOPOLOGY - 2019-12-09 12:57:38,957: New Classifications: [2 1 2 0 1 2 2 1 1 2]
+INFO - 2019-12-09 12:57:38,958: Training 2 for 100 epochs. Blueprint: 13.
+INFO - 2019-12-09 12:57:38,958: Fitting one individual for 100 epochs
+TOPOLOGY - 2019-12-09 12:57:38,958: Starting assembling of blueprint 13.
+TOPOLOGY - 2019-12-09 12:57:39,220: Generated the assembled graph for blueprint 13: ['input-0-0', 'intermed-0-0', 'output-0-0']
+INFO - 2019-12-09 12:57:39,220: Generating keras layers
+INFO - 2019-12-09 12:57:39,220: Adding the Input() layer
+TOPOLOGY - 2019-12-09 12:57:39,221: Added Tensor("input_2:0", shape=(?, 32, 32, 3), dtype=float32)
+TOPOLOGY - 2019-12-09 12:57:39,221: input-0-0: Working on conv2d_3_02e31461c7904d16911caf39e2f7e291. Specs: [<class 'keras.layers.convolutional.Conv2D'>, {'filters': 31, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:39,229: input-0-0: Added [<tf.Tensor 'conv2d_3_02e31461c7904d16911caf39e2f7e291/Relu:0' shape=(?, 32, 32, 31) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:39,230: intermed-0-0: Working on conv2d_4_a1af547021034db296d186b371c8647c. Specs: [<class 'keras.layers.convolutional.Conv2D'>, {'filters': 18, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:39,230: intermed-0-0: is conv2d_3_02e31461c7904d16911caf39e2f7e291/Relu:0 conv2d: True. is conv2d_4_a1af547021034db296d186b371c8647c dense: False
+TOPOLOGY - 2019-12-09 12:57:39,238: intermed-0-0: Added [<tf.Tensor 'conv2d_4_a1af547021034db296d186b371c8647c/Relu:0' shape=(?, 32, 32, 18) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:39,248: intermed-0-0: Added complement [<tf.Tensor 'conv2d_4_a1af547021034db296d186b371c8647c/Relu:0' shape=(?, 32, 32, 18) dtype=float32>, <tf.Tensor 'dropout_10_c6c7ce42902b4efea906a18b923bab45/cond/Merge:0' shape=(?, 32, 32, 18) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:39,249: output-0-0: Working on dense_3_7afb5a8c51a14f60b27e2b768d35aeab. Specs: [<class 'keras.layers.core.Dense'>, {'units': 103, 'activation': 'relu'}]
+TOPOLOGY - 2019-12-09 12:57:39,249: output-0-0: is conv2d_4_a1af547021034db296d186b371c8647c/Relu:0 conv2d: True. is dense_3_7afb5a8c51a14f60b27e2b768d35aeab dense: True
+INFO - 2019-12-09 12:57:39,249: Adding a Flatten() layer between conv2d_4_a1af547021034db296d186b371c8647c/Relu:0 and dense_3_7afb5a8c51a14f60b27e2b768d35aeab
+TOPOLOGY - 2019-12-09 12:57:39,253: output-0-0: Added [<tf.Tensor 'flatten_2/Reshape:0' shape=(?, ?) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:39,261: output-0-0: Added [<tf.Tensor 'dense_3_7afb5a8c51a14f60b27e2b768d35aeab/Relu:0' shape=(?, 103) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:39,269: output-0-0: Added complement [<tf.Tensor 'dense_3_7afb5a8c51a14f60b27e2b768d35aeab/Relu:0' shape=(?, 103) dtype=float32>, <tf.Tensor 'dense_4_155e00ba3566476f9da8a632bfb4ccec/Softmax:0' shape=(?, 10) dtype=float32>]
+TOPOLOGY - 2019-12-09 12:57:39,269: {'input-0-0': [<tf.Tensor 'conv2d_3_02e31461c7904d16911caf39e2f7e291/Relu:0' shape=(?, 32, 32, 31) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_4_a1af547021034db296d186b371c8647c/Relu:0' shape=(?, 32, 32, 18) dtype=float32>, <tf.Tensor 'dropout_10_c6c7ce42902b4efea906a18b923bab45/cond/Merge:0' shape=(?, 32, 32, 18) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_3_7afb5a8c51a14f60b27e2b768d35aeab/Relu:0' shape=(?, 103) dtype=float32>, <tf.Tensor 'dense_4_155e00ba3566476f9da8a632bfb4ccec/Softmax:0' shape=(?, 10) dtype=float32>]}
+TOPOLOGY - 2019-12-09 12:57:39,269: Using input Tensor("input_2:0", shape=(?, 32, 32, 3), dtype=float32) and output Tensor("dense_4_155e00ba3566476f9da8a632bfb4ccec/Softmax:0", shape=(?, 10), dtype=float32)
