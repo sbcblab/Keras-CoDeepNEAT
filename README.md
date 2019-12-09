@@ -26,3 +26,6 @@ Configuration parameters must be set, as in the examples ``run_cifar10.py`` and 
 - SkLearn 0.21.3
 
 Compartibility with other version has not been tested.
+
+## Author
+Code developed and tested by [Jonas Bohrer](https://github.com/jonasbohrer) (jsbohrer@inf.ufrgs.br)
