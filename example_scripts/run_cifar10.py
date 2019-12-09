@@ -1,4 +1,7 @@
-import keras, logging, random, pydot, copy, uuid, os, sys, csv, json
+import sys
+sys.path.append("..")
+
+import keras, logging, random, pydot, copy, uuid, os, csv, json
 import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -12,8 +15,9 @@ from keras import backend as K
 from keras.preprocessing.image import ImageDataGenerator
 from keras.callbacks import EarlyStopping, ModelCheckpoint, CSVLogger
 from keras import regularizers
+import imp
 
-from kerascodeepneat import *
+kerascodeepneat = imp.load_source("kerascodeepneat", "./base/kerascodeepneat.py")
 
 def run_cifar10_full(generations, training_epochs, population_size, blueprint_population_size, module_population_size, n_blueprint_species, n_module_species, final_model_training_epochs):
     from keras.datasets import cifar10
@@ -82,7 +86,7 @@ def run_cifar10_full(generations, training_epochs, population_size, blueprint_po
         )
     datagen.fit(x_train)
 
-    my_dataset = Datasets(training=[x_train, y_train], test=[x_test, y_test])
+    my_dataset = kerascodeepneat.Datasets(training=[x_train, y_train], test=[x_test, y_test])
     my_dataset.SAMPLE_SIZE = 20000
     my_dataset.TEST_SAMPLE_SIZE = 2000
 
@@ -107,12 +111,12 @@ def run_cifar10_full(generations, training_epochs, population_size, blueprint_po
     "validation_data": (x_test,y_test),
     "callbacks": [es, csv_logger]
     }                        
-    improved_dataset = Datasets(training=[x_train, y_train], test=[x_test, y_test])
+    improved_dataset = kerascodeepneat.Datasets(training=[x_train, y_train], test=[x_test, y_test])
     improved_dataset.custom_fit_args = custom_fit_args
     my_dataset.custom_fit_args = None
 
     # Initiate population
-    population = Population(my_dataset, input_shape=x_train.shape[1:], population_size=population_size, compiler=compiler)
+    population = kerascodeepneat.Population(my_dataset, input_shape=x_train.shape[1:], population_size=population_size, compiler=compiler)
   
     # Start with random modules
     population.create_module_population(module_population_size, global_configs, possible_components, possible_complementary_components)
