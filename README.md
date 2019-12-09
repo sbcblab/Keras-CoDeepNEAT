@@ -10,6 +10,15 @@ This will give you access to the Population and Dataset classes, which are the o
 
 Configuration parameters must be set, as in the examples ``run_cifar10.py`` and ``run_mnist.py`` in [Example Scripts](https://github.com/sbcblab/Keras-CoDeepNEAT/tree/master/example_scripts)
 
+## Outputs
+
+The framework generates a series of files logging the evolution of populations (into .log, .csv and .json files), including informations related to:
+- Model assembling, evaluation, speciation, reproduction and generation summary details (test.log)
+- Scores, features and species for individuals over generations (iterations.csv)
+- Training history for final model (training.csv and training.json)
+- Images representing modules, blueprints, assembled graphs, keras models for every individual (\images directory in .png format)
+- Keras models related to the best models for every generation (\models directory in .h5 format).
+
 ## Example Scripts
 
 - ``run_mnist.py`` describes a sample run using the MNIST dataset.
