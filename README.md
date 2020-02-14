@@ -1,7 +1,7 @@
 # Keras-CoDeepNEAT
 [CoDeepNEAT](https://arxiv.org/abs/1703.00548) inspired implementation using Keras and Tensorflow as backend.
 
-Experiment discussion and description: [publication](https://www.lume.ufrgs.br/)
+Experiment discussion and description: [arXiv:2002.04634](https://arxiv.org/abs/2002.04634)
 
 ## General instructions
 
@@ -35,6 +35,24 @@ The framework generates a series of files logging the evolution of populations (
 - SkLearn 0.21.3
 
 Compartibility with other version has not been tested.
+
+## Citing Keras-CoDeepNEAT
+
+If you use Keras-CoDeepNEAT in a scientific publication, we would appreciate citations to the following paper:
+
+Jonas da Silveira Bohrer, Bruno Iochins Grisci, Marcio Dorn. _Neuroevolution of Neural Network Architectures Using CoDeepNEAT and Keras_, 2020, [arXiv:2002.04634](https://arxiv.org/abs/2002.04634)
+
+Bibtex entry:
+```
+@misc{bohrer2020neuroevolution,
+    title={Neuroevolution of Neural Network Architectures Using CoDeepNEAT and Keras},
+    author={Jonas da Silveira Bohrer and Bruno Iochins Grisci and Marcio Dorn},
+    year={2020},
+    eprint={2002.04634},
+    archivePrefix={arXiv},
+    primaryClass={cs.NE}
+}
+```
 
 ## Dev infos
 Code developed and tested by [Jonas Bohrer](https://github.com/jonasbohrer) (jsbohrer@inf.ufrgs.br)
